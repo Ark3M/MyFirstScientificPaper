@@ -1,0 +1,9 @@
+*.eps
+*.tex
+*.eps_tex
+*.sty
+*.bst
+authors-guide.pdf
+jmlda-template-rus.pdf
+jmlda-template-eng.pdf
+.idea
