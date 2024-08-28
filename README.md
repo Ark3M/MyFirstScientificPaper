@@ -1,2 +1,2 @@
 # MyFirstScientificPaper
-Materials related to my first scientific paper
+Materials related to my first scientific paper.
